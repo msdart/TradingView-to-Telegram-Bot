@@ -10,7 +10,7 @@
         It should claim all 10 badges and then the final reward.
 */
 
-/* Thanks to Sqbika#0657 for the initial script */
+
 
 (async() => {
     if (!jQuery("#application_config").data("userinfo")) {
