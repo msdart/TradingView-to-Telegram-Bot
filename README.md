@@ -9,7 +9,7 @@ The Telegram Listing Bot for TradingView is a tool designed to automate the proc
 - Customizable alert filtering and formatting options.
 - Support for multiple Telegram channels and groups.
 - Easy-to-use configuration and setup.
-
+updated
 ## Usage
 1. Setup Telegram Integration:
 Configure your bot on Telegram and obtain the API token and chat ID.
